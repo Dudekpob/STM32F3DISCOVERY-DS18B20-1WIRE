@@ -1,0 +1,12 @@
+../Core/Src/main.c:26:6:gpio_set_input	8	static
+../Core/Src/main.c:35:6:gpio_set_output	8	static
+../Core/Src/main.c:49:9:ds18b20_init	8	static
+../Core/Src/main.c:71:6:write	24	static
+../Core/Src/main.c:104:9:read	16	static
+../Core/Src/main.c:172:5:main	8	static
+../Core/Src/main.c:230:6:SystemClock_Config	128	static
+../Core/Src/main.c:279:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:327:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:367:13:MX_USB_PCD_Init	8	static
+../Core/Src/main.c:398:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:459:6:Error_Handler	4	static,ignoring_inline_asm
