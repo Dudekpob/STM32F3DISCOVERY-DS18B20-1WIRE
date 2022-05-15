@@ -201,8 +201,8 @@ uint32_t DWT_Delay_Init(void)
  8000274:	431bde83 	.word	0x431bde83
 
 08000278 <gpio_set_input>:
-/* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+
 GPIO_InitTypeDef GPIO_InitStruct;
 
 void gpio_set_input (void)

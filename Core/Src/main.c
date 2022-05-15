@@ -21,6 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+
 GPIO_InitTypeDef GPIO_InitStruct;
 
 void gpio_set_input (void)
