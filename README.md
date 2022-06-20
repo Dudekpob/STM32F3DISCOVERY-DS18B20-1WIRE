@@ -3,7 +3,7 @@ Code to read DS18S20 1wire protocol was taken from this page
 https://controllerstech.com/ds18b20-and-stm32/
 ![image](https://user-images.githubusercontent.com/36985894/168295969-9fc0bf3c-2fe6-4f29-bac7-8c5638ebdf31.png)
 
-The library for creating microsecond delays was taken from 
+The library for creating microseconds delays was taken from 
 https://github.com/keatis/dwt_delay
 
 
