@@ -1,2 +1,0 @@
-../Core/Src/dwt_delay.c:31:10:DWT_Delay_Init	4	static,ignoring_inline_asm
-../Core/Src/dwt_delay.c:62:7:DWT_Delay_us	24	static
